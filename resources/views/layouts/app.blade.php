@@ -133,7 +133,7 @@
                 </div>
             </div>
             <div class="border-t border-gray-200 pt-8 flex items-center justify-between">
-                <p class="text-sm text-gray-600">© 2024 Target Impian. All rights reserved.</p>
+                <p class="text-sm text-gray-600">© 2026 Target Impian. All rights reserved.</p>
                 <div class="flex gap-4">
                     <a href="#" class="text-gray-600 hover:text-blue-600 transition">f</a>
                     <a href="#" class="text-gray-600 hover:text-blue-600 transition">𝕏</a>
